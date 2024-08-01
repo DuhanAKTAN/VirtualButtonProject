@@ -1,2 +1,2 @@
 # VirtualButtonProject
-geliştrimiş olduğum görüntü işleme modeliyle arduinoyu birleştirdim
+mediapipe ve openCv kütüphanelerini kullanarak geliştirmiş olduğum görüntü işleme projesini arduino ile birleştirdim. Öncelikle handTrackingModule.py kodlarini inceleyip fonksiyonlarin ve class in ne yaptiklarini kavrayin, sonra VirtualButtonProject.py main kodlari inceleyin burada ana işlemleri yaptim ve arduino ya gönderdim. En son olarak VirtualButtonProject_Arduino klasörü içindeki arduino ide içerisinde yazilmiş C++ kodlarini inceleyebilirisiniz ...
